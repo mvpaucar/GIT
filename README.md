@@ -1,2 +1,2 @@
 # GIT
-manjo de git
+manejo de git
