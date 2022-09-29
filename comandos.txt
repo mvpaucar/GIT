@@ -1,0 +1,18 @@
+VERSION DE GIT
+git -v
+
+CLONAR: es la url con .git
+git clone https://github.com/mvpaucar/GIT.git
+
+Estado
+git status
+
+Ver en que rama se esta: indica con * la rama
+git branch
+
+Crear rama
+git branch test1
+
+cambiar rama
+git checkout test1
+
